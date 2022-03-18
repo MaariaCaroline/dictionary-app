@@ -9,7 +9,7 @@ export default function App() {
          <Dictionary /> 
         </main>
         <footer className="footer">
-         <small>Coded by</small>
+         <small> <a href="https://github.com/MaariaCaroline/dictionary-app" target="_blank">Coded by</a></small>
         </footer>
       </div>
      
