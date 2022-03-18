@@ -1,0 +1,10 @@
+input {
+    width: 180px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 8px; }
+
+    form {
+    margin: 0 auto;
+    width: 250px;
+}
