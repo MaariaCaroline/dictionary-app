@@ -9,5 +9,5 @@ export default function Phonetic(props) {
                 
                 {props.phonetic.text}
         </div>
-    )
+    );
 }
