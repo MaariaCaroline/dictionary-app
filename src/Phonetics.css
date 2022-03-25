@@ -4,10 +4,20 @@
     border-radius: 20px;
     text-decoration: none;
     transition: all 140ms ease-in-out;
-    margin-right: 20px;
+    width: 10px;
+    margin: 20px 0px 0px 0px;
+ 
+    
 }
 
 .Phonetics a:hover {
     background: palevioletred;
     color:aliceblue;
+}
+.Phonetic {
+    margin: 20px 0;
+  }
+
+  .small, small {
+    font-size: .875em
 }
